@@ -89,3 +89,43 @@ h1{
     color: #1f2937;
     font-size: 20px;
   }
+
+  .action{
+    padding: 10px 12px; 
+    margin: 64px 128px;
+    display: flex;
+    background-color: #3882F6;
+    justify-content: space-around;
+    text-align: center;
+  }
+
+  .action button {
+    background-color: #3882F6;
+    color: #f9faf8;
+    padding: 10px 5px;
+    margin: 70px 10px;
+    border-radius: 10%;
+    border-color: #f9faf8;
+  }
+
+  .action h5 {
+    color: #e5e7eb;
+    font-size: 20px;
+  }
+
+  .footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 25px;
+    text-align: center;
+  }
+
+  .action p {
+    color: #e5e7eb;
+    font-size: 12px;
+  }
+
+  .action-text {
+    display: flex;
+    flex-direction: column;
+  }
